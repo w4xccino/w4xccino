@@ -8,4 +8,4 @@ w4xccino/w4xccino is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 # GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=w4xccino)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=w4xccino&show_icons=true&theme=synthwave)
