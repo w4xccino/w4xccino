@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @w4xccino
 - 👀 I’m interested in PHP, Java, Python, SQL
-- 🌱 I’m currently learning JS, CSS3
+- 🌱 I’m currently learning NodeJS and ReactJS
 - 💞️ I’m looking to collaborate on whoever which loves coding
 
 <!---
