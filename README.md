@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Diego</h1>
-<h3 align="center">I'm a student developer from Peru.</h3>
+<h3 align="center">I'm a  developer from Peru.</h3>
 
 <h3 align="center">
 <img align="center" src="https://c.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" />
