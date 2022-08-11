@@ -6,7 +6,7 @@
 </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=w4xccino&label=Profile%20views&color=0e75b6&style=flat" alt="w4xccino" /> </p>
 
-- 🔭 I’m currently working on **peepo-app**
+
 
 - 🌱 I’m currently learning **react, expressjs and nodejs**
 
