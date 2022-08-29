@@ -8,7 +8,7 @@
 
 
 
-- 🌱 I’m currently learning **react, expressjs and nodejs**
+- 🌱 I’m currently learning **Laravel PHP**
 
 - 📫 How to reach me **dbtoledoa@gmail.com**
 
