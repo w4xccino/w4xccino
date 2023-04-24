@@ -9,7 +9,7 @@
 <img src="https://lanyard.cnrad.dev/api/525713430125215776" />
 </center>
 
-- 🌱 I’m currently learning **Laravel PHP**
+- 🌱 I’m currently learning **Docker**
 
 - 📫 How to reach me **dbtoledoa@gmail.com**
 
