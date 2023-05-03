@@ -6,7 +6,7 @@
 </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=w4xccino&label=Profile%20views&color=0e75b6&style=flat" alt="w4xccino" /> </p>
 <center>
-<img src="https://lanyard.cnrad.dev/api/525713430125215776" />
+<img src="https://lanyard.cnrad.dev/api/294505517408190464" />
 </center>
 
 - 🌱 I’m currently learning **Docker**
